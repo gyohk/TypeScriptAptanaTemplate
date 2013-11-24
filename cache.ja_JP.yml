@@ -1,0 +1,32 @@
+!!com.aptana.scripting.model.BundleElement
+author: gyoh_k
+children:
+- !!com.aptana.scripting.model.ProjectTemplateElement
+  customProperties: {replace_parameters: false}
+  description: Aptana3でTypescipt開発を行うためのカスタムテンプレートです。
+  displayName: TypeScript Custom Project Template
+  icon: null
+  id: net.grepen.typescript.aptana.template.project
+  location: templates/typescript_custom_template.zip
+  path: templates\project_templates.rb
+  priority: 0
+  scope: null
+  tags: &id002 []
+  type: WEB
+copyright: ''
+customProperties: null
+decreaseIndentMarkers: &id001 {}
+description: 'Bundle for development with TypeScript
+
+  '
+displayName: TypeScript Custom Template
+fileTypeRegistry: *id001
+fileTypes: *id002
+foldingStartMarkers: *id001
+foldingStopMarkers: *id001
+increaseIndentMarkers: *id001
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/gyohk/TypeScriptAptanaTemplate.ruble.git
+visible: true
