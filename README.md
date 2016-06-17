@@ -23,3 +23,5 @@ C:\Users\(ユーザ名)\Aptana Rubles
 なお、AptanaでTypeScriptを扱うには、別途プラグインが必要です。
 
 https://github.com/palantir/eclipse-typescript
+
+私信: PHPStormから送信しています。
